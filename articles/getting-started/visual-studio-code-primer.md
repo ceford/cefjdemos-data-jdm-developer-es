@@ -281,7 +281,7 @@ Cuando todo esté arreglado, esto es lo que podrías ver:
 
 ## Referencias
 
-De la Documentación de Joomla!: [Visual Studio Code](https://docs.joomla.org/Visual_Studio_Code "Visual Studio Code"), que también cubre la configuración de otras herramientas, por ejemplo, CodeSniffer y PHPUnit.
+De la Documentación de Joomla!: [Visual Studio Code](https://docs.joomla.org/Visual_Studio_Code), que también cubre la configuración de otras herramientas, por ejemplo, CodeSniffer y PHPUnit.
 
 *Traducido por openai.com*
 

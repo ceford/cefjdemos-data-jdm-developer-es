@@ -8,7 +8,7 @@ Documentación</span> Joomla! 4.x
 
 **Joomla! 4.x** se entrega con sistemas de archivos en la nube para el **Gestor de Medios** por defecto. Con la API anterior, crear sistemas de archivos personalizados era una tarea difícil. Gracias a la nueva API, ahora es fácil crear un sistema de archivos personalizado. Si deseas usar un Servicio en la Nube con el nuevo Gestor de Medios, se aconseja usar **OAuth2.0**.
 
-Este documento te guiará a través de pasos importantes para crear tu propio **Plugin de Sistema de Archivos** para ampliar el **Gestor de Medios**. Antes de continuar, asegúrate de tener el conocimiento básico sobre cómo desarrollar un plugin para Joomla. [Este tutorial](https://docs.joomla.org/J3.x:Creating_a_Plugin_for_Joomla "Special:MyLanguage/J3.x:Creating a Plugin for Joomla") debería ayudarte.
+Este documento te guiará a través de pasos importantes para crear tu propio **Plugin de Sistema de Archivos** para ampliar el **Gestor de Medios**. Antes de continuar, asegúrate de tener el conocimiento básico sobre cómo desarrollar un plugin para Joomla. [Este tutorial](https://docs.joomla.org/J3.x:Creating_a_Plugin_for_Joomla) debería ayudarte.
 
 ## Crea tu complemento de sistema de archivos
 
